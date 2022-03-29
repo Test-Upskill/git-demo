@@ -1,3 +1,5 @@
 THis is a text file
 Adding some more text to the file for the fast forward merge
 Adding text for no fast forward merge example
+
+Adding text for automatic merge example
