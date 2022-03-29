@@ -2,3 +2,5 @@ ANother Text file
 Adding the text to test no fast forward merge
 
 Adding text for automatic merge
+
+Adding text for merge conflict
