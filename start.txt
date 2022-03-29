@@ -1,1 +1,2 @@
 THis is a text file
+Adding some more text to the file for the fast forward merge
