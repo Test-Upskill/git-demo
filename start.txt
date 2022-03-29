@@ -5,3 +5,7 @@ Adding text for no fast forward merge example
 Adding text for automatic merge example
 
 Simple Rebase example
+
+Stash example
+
+
