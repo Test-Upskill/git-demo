@@ -9,3 +9,6 @@ Simple Rebase example
 Stash example
 
 
+
+
+this is stash 1
